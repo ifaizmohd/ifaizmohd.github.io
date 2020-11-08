@@ -1,0 +1,277 @@
+.mediaViewInfo {
+	--web-view-name: Sign up;
+	--web-view-id: Sign_up;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Sign_up;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Sign_up {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Sign up;
+	--web-view-id: Sign_up;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+#Group_1 {
+	position: absolute;
+	width: 375px;
+	height: 813px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: iPhone_X__XS__11_Pro___1.html;
+	cursor: pointer;
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 375px;
+	height: 813px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#user {
+	position: absolute;
+	width: 140.214px;
+	height: 140.214px;
+	left: 117px;
+	top: 101px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(137,214,247,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 140.214px;
+	height: 140.214px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(65,89,107,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 92.933px;
+	height: 128.251px;
+	left: 23.627px;
+	top: 11.963px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(252,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 65.5px;
+	top: 307.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(252,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 65.5px;
+	top: 373.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(252,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 65.5px;
+	top: 307.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(252,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 65.5px;
+	top: 439.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(252,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 65.5px;
+	top: 439.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(252,252,252,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 245px;
+	height: 1px;
+	left: 65.5px;
+	top: 505.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#First_name {
+	left: 66px;
+	top: 283px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(250,250,250,1);
+}
+#Last_name {
+	left: 66px;
+	top: 349px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(250,250,250,1);
+}
+#Email {
+	left: 66px;
+	top: 415px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(250,250,250,1);
+}
+#Password {
+	left: 66px;
+	top: 481px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(250,250,250,1);
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	height: 39px;
+	left: 101px;
+	top: 559px;
+}
+#Sign_up_ {
+	left: 163px;
+	top: 569px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(163,161,161,1);
+}
